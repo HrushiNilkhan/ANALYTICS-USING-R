@@ -1,9 +1,9 @@
-#Project: Logistic Regression
+#Project: Logistic Regression 
 install.packages("dplyr")
 library(dplyr)
 # %<%
 
-#Read the dataset----
+#Read the dataset-----
 data_adult<-read.csv("C:/R FILES/R Programs/Analytics_Edge_R/annual_income.csv")
 
 View(data_adult)
